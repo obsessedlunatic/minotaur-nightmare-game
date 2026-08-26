@@ -1,0 +1,82 @@
+{
+  "иваг": {
+    "best": 1,
+    "wins": 0,
+    "deaths": 2
+  },
+  "иван": {
+    "best": 4,
+    "wins": 3,
+    "deaths": 8
+  },
+  "bdfy": {
+    "best": 1,
+    "wins": 0,
+    "deaths": 4
+  },
+  "bdfy'": {
+    "best": 3,
+    "wins": 2,
+    "deaths": 3
+  },
+  "van": {
+    "best": 1,
+    "wins": 0,
+    "deaths": 2
+  },
+  "v": {
+    "best": 3,
+    "wins": 2,
+    "deaths": 8
+  },
+  "И": {
+    "best": 1,
+    "wins": 0,
+    "deaths": 3
+  },
+  "V": {
+    "best": 3,
+    "wins": 6,
+    "deaths": 15
+  },
+  "м": {
+    "best": 10,
+    "wins": 2264,
+    "deaths": 23
+  },
+  "b": {
+    "best": 1,
+    "wins": 0,
+    "deaths": 3
+  },
+  "ит": {
+    "best": 2,
+    "wins": 640,
+    "deaths": 2
+  },
+  "мммммм": {
+    "best": 1,
+    "wins": 0,
+    "deaths": 1
+  },
+  "т": {
+    "best": 28,
+    "wins": 145,
+    "deaths": 11
+  },
+  "и": {
+    "best": 5,
+    "wins": 1376,
+    "deaths": 51
+  },
+  "n": {
+    "best": 10,
+    "wins": 0,
+    "deaths": 2
+  },
+  "ы": {
+    "best": 1,
+    "wins": 0,
+    "deaths": 1
+  }
+}
